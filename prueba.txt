@@ -1,6 +1,4 @@
 Esto es una prueba mas 
 Nueva linea de codigo
 
-if (condicion) {
-    ejecutar();
-}
+if (condicion) {}
